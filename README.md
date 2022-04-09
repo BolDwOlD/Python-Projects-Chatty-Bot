@@ -73,7 +73,7 @@ Output
 What is you name?
 Good Luck! name
 Guess the character...
-Enter remainders of dividing your age by 3, 5 and 7.
+Enter remainders by dividing your age by 3, 5 and 7.
 Now I will prove to you that I can count to any number you want.
-Why do we use methods?
+
 ```
